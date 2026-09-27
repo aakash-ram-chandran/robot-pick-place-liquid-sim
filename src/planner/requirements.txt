@@ -1,0 +1,2 @@
+grpcio>=1.60
+nvidia-curobo[cu13] @ git+https://github.com/NVlabs/curobo.git
