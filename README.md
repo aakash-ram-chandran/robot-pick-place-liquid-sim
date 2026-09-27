@@ -131,6 +131,10 @@ The sim talks to the planner with six gRPC calls: Info, SetScene, PlanPose, Plan
 }
 ```
 
+## Contact
+
+I'm open to new ideas and fun projects in ML, RL, deep learning and robotics. If you want to collaborate, email me at [aakashramchandran@gmail.com](mailto:aakashramchandran@gmail.com).
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
