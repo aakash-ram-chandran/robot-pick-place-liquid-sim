@@ -1,0 +1,5 @@
+threepp>=2026.9.6
+warp-lang>=1.17
+numpy>=2.0
+scipy>=1.11
+grpcio>=1.60
