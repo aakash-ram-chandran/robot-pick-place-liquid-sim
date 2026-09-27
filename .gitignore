@@ -1,0 +1,7 @@
+assets/
+configs/
+cache/
+screenshots/
+media/*_frames/
+media/demo.mp4
+__pycache__/
